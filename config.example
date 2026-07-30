@@ -1,0 +1,37 @@
+{
+  "language": "de",
+  "greeting": "Guten Tag, Sie sprechen mit dem digitalen Assistenten. Wie kann ich Ihnen helfen?",
+  "system_prompt": "Du bist der telefonische Assistent eines Handwerksbetriebs. Antworte kurz, hoeflich und in vollstaendigen Saetzen. Nenne keine Preise und sage keine Termine verbindlich zu.",
+  "stt": {
+    "model": "nova-3",
+    "endpointing_ms": 300,
+    "utterance_end_ms": 3000
+  },
+  "llm": {
+    "model": "gpt-4o",
+    "temperature": 0.7,
+    "max_reply_tokens": 300
+  },
+  "tts": {
+    "voice_id": "IHRE_VOICE_ID",
+    "model_id": "eleven_flash_v2_5",
+    "voice_settings": {
+      "stability": 0.72,
+      "similarity_boost": 0.8,
+      "style": 0.1,
+      "speed": 0.9
+    }
+  },
+  "gate": {
+    "echo_cooldown_seconds": 0.4,
+    "thresholds": {
+      "echo_similarity_threshold": 0.75,
+      "recent_tts_max_words": 120,
+      "barge_in_min_words": 3,
+      "barge_in_enabled": true
+    }
+  },
+  "timeouts": {
+    "tts_first_chunk_seconds": 3.0
+  }
+}
