@@ -1,0 +1,17 @@
+# Konfiguration mit echten Werten - NIE eingecheckt
+config.json
+
+# Zugangsdaten
+.env
+.env.*
+*.pem
+*.key
+*-credentials.json
+service-account*.json
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
