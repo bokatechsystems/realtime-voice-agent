@@ -165,5 +165,8 @@ Die Provider-Aufrufe sind absichtlich dünn gehalten. Die Gatter-Logik ist provi
 ## Lizenz
 
 MIT — siehe [LICENSE](LICENSE).
+
+---
+
 *English version: [README.md](README.md)*
 
