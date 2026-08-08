@@ -122,3 +122,7 @@ Abgedeckt durch `test_barge_in_leert_offene_marks`.
 
 `cancel_generation` wird gesetzt, **bevor** die Warteschlange geleert wird. Umgekehrt entsteht eine Race Condition: der noch laufende LLM-Stream legt neue Sätze in die eben geleerte Warteschlange, und der Agent „erwacht" nach der Unterbrechung wieder — obwohl der Anrufer gerade spricht.
 
+---
+
+*English version: [barge-in.md](barge-in.md)*
+
