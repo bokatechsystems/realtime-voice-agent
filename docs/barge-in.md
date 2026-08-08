@@ -121,3 +121,8 @@ Covered by `test_barge_in_leert_offene_marks`.
 ### The generation flag
 
 `cancel_generation` is set **before** the queue is drained. The other way round creates a race condition: the still-running LLM stream drops new sentences into the queue that was just emptied, and the agent "wakes up" again after the interruption — while the caller is speaking.
+
+---
+
+*Deutsche Fassung: [barge-in.de.md](barge-in.de.md)*
+
