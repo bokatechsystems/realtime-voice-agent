@@ -6,6 +6,8 @@ The signal path is the easy part — a few hours of work. This repository is abo
 
 ---
 
+https://github.com/bokatechsystems/realtime-voice-agent/raw/main/demo.mp4
+
 ## What this is, and what it isn't
 
 A **reference implementation**, extracted from a phone assistant running in production and reduced to the technically interesting core. The business logic of the production system — appointment booking, CRM integration, escalation handling, conversation management — is deliberately **not** included.
