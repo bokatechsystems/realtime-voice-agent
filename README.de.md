@@ -6,6 +6,12 @@ Der Schwerpunkt dieses Repositories liegt nicht auf dem Signalweg — der ist in
 
 ---
 
+
+
+https://github.com/user-attachments/assets/fc014bea-f856-49e2-91ff-8f8c06cfcc7c
+
+
+
 ## Was das ist, und was nicht
 
 Dies ist eine **Referenzimplementierung**, aus einem produktiv laufenden Telefonassistenten herausgelöst und auf den technisch interessanten Kern reduziert. Die Geschäftslogik des Produktivsystems — Terminbuchung, CRM-Anbindung, Notfallprotokoll, Mehrsprachigkeit, Gesprächsführung — ist bewusst **nicht** enthalten.
