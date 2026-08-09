@@ -6,7 +6,11 @@ The signal path is the easy part — a few hours of work. This repository is abo
 
 ---
 
-https://github.com/bokatechsystems/realtime-voice-agent/raw/main/demo.mp4
+
+
+https://github.com/user-attachments/assets/a4fbafb0-1520-4e92-a6bc-88c4292a0035
+
+
 
 ## What this is, and what it isn't
 
