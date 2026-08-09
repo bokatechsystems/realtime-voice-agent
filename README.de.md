@@ -6,8 +6,7 @@ Der Schwerpunkt dieses Repositories liegt nicht auf dem Signalweg — der ist in
 
 ---
 
-**▶ Live call — 74 seconds, German, unedited.** Barge-in at 0:15, silence watchdog at 0:43.
-
+**▶ Echter Anruf — 74 Sekunden, Deutsch, ungeschnitten.** Barge-in bei 0:15, Stille-Wache bei 0:43.
 
 
 https://github.com/user-attachments/assets/fc014bea-f856-49e2-91ff-8f8c06cfcc7c
