@@ -6,6 +6,8 @@ The signal path is the easy part — a few hours of work. This repository is abo
 
 ---
 
+**▶ Live call — 74 seconds, German, unedited.** Barge-in at 0:15, silence watchdog at 0:43.
+
 
 
 https://github.com/user-attachments/assets/a4fbafb0-1520-4e92-a6bc-88c4292a0035
